@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    height: 100vh; /* Встановлення висоти на всю висоту вікна */
+}
+
+.left-side, .right-side {
+    flex: 1; /* Займати рівну ширину */
+    border: 1px solid black; /* Додавання рамок для видимості */
+}
