@@ -1,0 +1,232 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"c44a1dd0-4bed-4e2f-a23f-02569c100dcf\" name=\"Changes\" comment=\"Created\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Back-End/SpiritPleasure/SpiritPleasure/settings.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Back-End/SpiritPleasure/SpiritPleasure/settings.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Back-End/SpiritPleasure/SpiritPleasure/urls.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Back-End/SpiritPleasure/SpiritPleasure/urls.py\" afterDir=\"false\" />\r\n    </list>\r\n    <list id=\"50fc23c3-7830-44e2-8332-3edfcdd06dcc\" name=\"Changes by KDFX Modes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/Back-End/SpiritPleasure/SpiritPleasure/settings.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Back-End/SpiritPleasure/SpiritPleasure/settings.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Front-End/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Front-End/index.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;RomanRavlyk&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">\r\n    <option name=\"selectedUrlAndAccountId\">\r\n      <UrlAndAccount>\r\n        <option name=\"accountId\" value=\"e4244030-9c03-4917-87d7-7db593f315a0\" />\r\n        <option name=\"url\" value=\"https://github.com/CodeCraft-s-Power/SpiritPleasure\" />\r\n      </UrlAndAccount>\r\n    </option>\r\n  </component>\r\n  <component name=\"LineStatusTrackerManager\">\r\n    <file path=\"$PROJECT_DIR$/Back-End/SpiritPleasure/SpiritPleasure/settings.py\">\r\n      <ranges>\r\n        <range start1=\"33\" end1=\"33\" start2=\"33\" end2=\"34\" changelist=\"50fc23c3-7830-44e2-8332-3edfcdd06dcc\" />\r\n        <range start1=\"75\" end1=\"75\" start2=\"76\" end2=\"87\" changelist=\"c44a1dd0-4bed-4e2f-a23f-02569c100dcf\" />\r\n        <range start1=\"76\" end1=\"84\" start2=\"88\" end2=\"91\" changelist=\"c44a1dd0-4bed-4e2f-a23f-02569c100dcf\" />\r\n      </ranges>\r\n    </file>\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"ProjectErrors\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 6\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2eMjaumCgP2oIRWVeutRPL0N7wc\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Python tests.Python tests for tests.UserIntegrationTest.executor\": \"Run\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"last_opened_file_path\": \"C:/All files/SpiritPleasure\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"settings.editor.selected.configurable\": \"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"Python tests for tests.UserIntegrationTest\" type=\"tests\" factoryName=\"Autodetect\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"SpiritPleasure\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Back-End/SpiritPleasure\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"_new_additionalArguments\" value=\"&quot;&quot;\" />\r\n      <option name=\"_new_target\" value=\"&quot;tests.UserIntegrationTest&quot;\" />\r\n      <option name=\"_new_targetType\" value=\"&quot;PYTHON&quot;\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python tests.Python tests for tests.UserIntegrationTest\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"c44a1dd0-4bed-4e2f-a23f-02569c100dcf\" name=\"Changes\" comment=\"\" />\r\n      <created>1711721409005</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1711721409005</updated>\r\n      <workItem from=\"1711721410097\" duration=\"1521000\" />\r\n      <workItem from=\"1711805648045\" duration=\"5479000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Created\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1711721463786</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1711721463786</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Created\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1711722291913</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1711722291913</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\r\n                <map>\r\n                  <entry key=\"Show.Git.Branches\" value=\"true\" />\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Created\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Created\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,14 +4,11 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="c44a1dd0-4bed-4e2f-a23f-02569c100dcf" name="Changes" comment="Created">
++    <list default="true" id="c44a1dd0-4bed-4e2f-a23f-02569c100dcf" name="Changes" comment="User">
++      <change afterPath="$PROJECT_DIR$/Back-End/SpiritPleasure/authentication/urls.py" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Back-End/SpiritPleasure/SpiritPleasure/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Back-End/SpiritPleasure/SpiritPleasure/settings.py" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/Back-End/SpiritPleasure/SpiritPleasure/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Back-End/SpiritPleasure/SpiritPleasure/urls.py" afterDir="false" />
+-    </list>
+-    <list id="50fc23c3-7830-44e2-8332-3edfcdd06dcc" name="Changes by KDFX Modes" comment="">
+-      <change beforePath="$PROJECT_DIR$/Back-End/SpiritPleasure/SpiritPleasure/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Back-End/SpiritPleasure/SpiritPleasure/settings.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Front-End/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Front-End/index.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Back-End/SpiritPleasure/authentication/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Back-End/SpiritPleasure/authentication/views.py" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -22,10 +19,16 @@
+     <option name="RECENT_TEMPLATES">
+       <list>
+         <option value="HTML File" />
++        <option value="Python Script" />
+       </list>
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="main" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="GitHubPullRequestSearchHistory">{
+@@ -42,15 +45,6 @@
+       </UrlAndAccount>
+     </option>
+   </component>
+-  <component name="LineStatusTrackerManager">
+-    <file path="$PROJECT_DIR$/Back-End/SpiritPleasure/SpiritPleasure/settings.py">
+-      <ranges>
+-        <range start1="33" end1="33" start2="33" end2="34" changelist="50fc23c3-7830-44e2-8332-3edfcdd06dcc" />
+-        <range start1="75" end1="75" start2="76" end2="87" changelist="c44a1dd0-4bed-4e2f-a23f-02569c100dcf" />
+-        <range start1="76" end1="84" start2="88" end2="91" changelist="c44a1dd0-4bed-4e2f-a23f-02569c100dcf" />
+-      </ranges>
+-    </file>
+-  </component>
+   <component name="ProblemsViewState">
+     <option name="selectedTabId" value="ProjectErrors" />
+   </component>
+@@ -63,21 +57,21 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Python tests.Python tests for tests.UserIntegrationTest.executor": "Run",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "git-widget-placeholder": "main",
+-    "last_opened_file_path": "C:/All files/SpiritPleasure",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Python tests.Python tests for tests.UserIntegrationTest.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;Dev&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/All files/SpiritPleasure&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RunManager">
+     <configuration name="Python tests for tests.UserIntegrationTest" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+       <module name="SpiritPleasure" />
+@@ -117,7 +111,9 @@
+       <option name="presentableId" value="Default" />
+       <updated>1711721409005</updated>
+       <workItem from="1711721410097" duration="1521000" />
+-      <workItem from="1711805648045" duration="5479000" />
++      <workItem from="1711805648045" duration="7908000" />
++      <workItem from="1711888156331" duration="2094000" />
++      <workItem from="1711896741284" duration="2210000" />
+     </task>
+     <task id="LOCAL-00001" summary="Created">
+       <option name="closed" value="true" />
+@@ -135,7 +131,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1711722291913</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="User">
++      <option name="closed" value="true" />
++      <created>1711811434805</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1711811434805</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -152,6 +156,17 @@
+                   <entry key="Show.Git.Branches" value="true" />
+                 </map>
+               </option>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="Dev" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
+             </State>
+           </value>
+         </entry>
+@@ -160,6 +175,7 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Created" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Created" />
++    <MESSAGE value="User" />
++    <option name="LAST_COMMIT_MESSAGE" value="User" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: Back-End/SpiritPleasure/authentication/views.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># views.py\r\n\r\nfrom django.shortcuts import render\r\nfrom django.http import JsonResponse\r\nfrom django.views.decorators.csrf import csrf_exempt\r\nfrom .models import CustomUser\r\nimport json\r\n\r\n\r\n@csrf_exempt\r\ndef create_user(request):\r\n    if request.method == 'POST':\r\n        data = json.loads(request.body)\r\n        username = data.get('username')\r\n        email = data.get('email')\r\n        password = data.get('password')\r\n\r\n        if username and email and password:\r\n            user = CustomUser.objects.create_user(username=username, email=email, password=password)\r\n            return JsonResponse({'message': 'User created successfully'}, status=201)\r\n        else:\r\n            return JsonResponse({'error': 'Missing username, email, or password'}, status=400)\r\n    else:\r\n        return JsonResponse({'error': 'Only POST requests are allowed'}, status=405)\r\n\r\n\r\ndef get_user(request, user_id):\r\n    if request.method == 'GET':\r\n        try:\r\n            user = CustomUser.objects.get(id=user_id)\r\n            user_data = {\r\n                'id': user.id,\r\n                'username': user.username,\r\n                'email': user.email\r\n            }\r\n            return JsonResponse(user_data, status=200)\r\n        except CustomUser.DoesNotExist:\r\n            return JsonResponse({'error': 'User does not exist'}, status=404)\r\n    else:\r\n        return JsonResponse({'error': 'Only GET requests are allowed'}, status=405)\r\n
+===================================================================
+diff --git a/Back-End/SpiritPleasure/authentication/views.py b/Back-End/SpiritPleasure/authentication/views.py
+--- a/Back-End/SpiritPleasure/authentication/views.py	
++++ b/Back-End/SpiritPleasure/authentication/views.py	
+@@ -1,40 +1,39 @@
+-# views.py
+-
+ from django.shortcuts import render
+ from django.http import JsonResponse
+ from django.views.decorators.csrf import csrf_exempt
+ from .models import CustomUser
++from django.views.generic import View
+ import json
+ 
+ 
+-@csrf_exempt
+-def create_user(request):
+-    if request.method == 'POST':
+-        data = json.loads(request.body)
+-        username = data.get('username')
+-        email = data.get('email')
+-        password = data.get('password')
++class AuthenticationView(View):
++    @csrf_exempt
++    def create_user(self, request):
++        if request.method == 'POST':
++            data = json.loads(request.body)
++            username = data.get('username')
++            email = data.get('email')
++            password = data.get('password')
+ 
+-        if username and email and password:
+-            user = CustomUser.objects.create_user(username=username, email=email, password=password)
+-            return JsonResponse({'message': 'User created successfully'}, status=201)
+-        else:
+-            return JsonResponse({'error': 'Missing username, email, or password'}, status=400)
+-    else:
+-        return JsonResponse({'error': 'Only POST requests are allowed'}, status=405)
++            if username and email and password:
++                user = CustomUser.objects.create_user(username=username, email=email, password=password)
++                return JsonResponse({'message': 'User created successfully'}, status=201)
++            else:
++                return JsonResponse({'error': 'Missing username, email, or password'}, status=400)
++        else:
++            return JsonResponse({'error': 'Only POST requests are allowed'}, status=405)
+ 
+-
+-def get_user(request, user_id):
+-    if request.method == 'GET':
+-        try:
+-            user = CustomUser.objects.get(id=user_id)
+-            user_data = {
+-                'id': user.id,
+-                'username': user.username,
+-                'email': user.email
+-            }
+-            return JsonResponse(user_data, status=200)
+-        except CustomUser.DoesNotExist:
+-            return JsonResponse({'error': 'User does not exist'}, status=404)
+-    else:
+-        return JsonResponse({'error': 'Only GET requests are allowed'}, status=405)
++    def get_user(self, request, user_id):
++        if request.method == 'GET':
++            try:
++                user = CustomUser.objects.get(id=user_id)
++                user_data = {
++                    'id': user.id,
++                    'username': user.username,
++                    'email': user.email
++                }
++                return JsonResponse(user_data, status=200)
++            except CustomUser.DoesNotExist:
++                return JsonResponse({'error': 'User does not exist'}, status=404)
++        else:
++            return JsonResponse({'error': 'Only GET requests are allowed'}, status=405)
