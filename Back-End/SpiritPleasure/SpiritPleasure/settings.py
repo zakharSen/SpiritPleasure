@@ -15,7 +15,6 @@ from pathlib import Path
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
 
@@ -26,7 +25,6 @@ SECRET_KEY = 'django-insecure-)2tz$8$ykc02%%va1p6q!0b9xo1ri_+l6ke(oh-87q+e3f@&ab
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
 
 # Application definition
 
@@ -72,20 +70,23 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'SpiritPleasure.wsgi.application'
 
-
 # Database
 # https://docs.djangoproject.com/en/5.0/ref/settings/#databases
 
 DATABASES = {
-     'default': {
-         'ENGINE': 'django.db.backends.mysql',
-         'NAME': 'SpiritPleasure',
-         'USER': 'backendmanager',
-         'PASSWORD': 'sleep-eat-code-repeat',
-         'HOST': 'localhost',
-         'PORT': '3306',
-     }
- }
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'SpiritPleasure',
+        'USER': 'backendmanager',
+        'PASSWORD': 'sleep-eat-code-repeat',
+        'HOST': 'localhost',
+        'PORT': '3306',
+        'default-character-set': 'utf8',
+    },
+    "OPTIONS": {
+        "init_command": "SET default_storage_engine=INNODB",
+    }
+}
 
 # DATABASES = {
 #     'default': {
@@ -112,7 +113,6 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-
 # Internationalization
 # https://docs.djangoproject.com/en/5.0/topics/i18n/
 
@@ -124,7 +124,6 @@ USE_I18N = True
 
 USE_TZ = True
 
-
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/5.0/howto/static-files/
 
@@ -134,7 +133,6 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-
 
 REST_FRAMEWORK = {
     'DEFAULT_RENDERER_CLASSES': [
