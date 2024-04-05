@@ -9,7 +9,13 @@ function App() {
           <p className="logo-text2">насолодись Україною</p>
         </div>
         <div className="right-pane">
-          <div className="top-right"></div>
+          <div className="top-right">
+              <div className="top-text">
+                  <h1 className="Create-New-Account" >CREATE NEW ACCOUNT</h1>
+                  <h2 className="subtitle"> Already Registered? <span> <a target="" href=""> Login </a> </span>
+                  </h2>
+              </div>
+          </div>
             <div className="bottom-right">
                 <div className="input-group">
                     <label className="Name" htmlFor="name">Name</label>
@@ -31,3 +37,6 @@ function App() {
 }
 
 export default App;
+
+
+
