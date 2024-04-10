@@ -1,5 +1,5 @@
 @font-face {
-font-family: 'Cooper Black';
+    font-family: 'Cooper Black';
     src: url('../src/assets/COOPBL.TTF') ;
 }
 
@@ -253,6 +253,59 @@ input[type="checkbox"]:checked + .slider-toggle:before {
     -ms-transform: translateX(22px);
     transform: translateX(22px);
 }
+
+.Create-New-Account {
+    width: 575.73px;
+    height: 147.01px;
+    margin-top: 5px;
+    margin-left: 80px;
+    font-family: 'Cooper Black', sans-serif;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 50.35px;
+    align-items: center;
+    text-align: center;
+    text-align-all: center;
+    color: #45590B;
+
+}
+
+.subtitle{
+    width: 522.55px;
+    height: 40px;
+    margin-left: 95px;
+    text-align: -webkit-center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 501;
+    font-size:  23.16px;
+    line-height: 1px;
+    color: #000000;
+
+}
+
+
+.dark-theme .subtitle{
+    color: rgba(217, 217, 217, 1);
+}
+
+
+.dark-theme .login-text{
+    color: rgba(71, 193, 220, 1);
+    text-decoration: none;
+}
+.login-text{
+    color: rgba(71, 193, 220, 1);
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
 
 
 

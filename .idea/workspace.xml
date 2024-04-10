@@ -4,42 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c44a1dd0-4bed-4e2f-a23f-02569c100dcf" name="Changes" comment="fonts changing">
-      <change afterPath="$PROJECT_DIR$/front-end/src/img/fon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/src/img/moon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/src/img/sun.svg" afterDir="false" />
+    <list default="true" id="c44a1dd0-4bed-4e2f-a23f-02569c100dcf" name="Changes" comment=" feat:theme button">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/e925717d-30be-4d9c-a600-0df8cd9f7829.corrupted.20240401-081729.reason.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/e925717d-30be-4d9c-a600-0df8cd9f7829.corrupted.20240401-081730.reason.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/e925717d-30be-4d9c-a600-0df8cd9f7829.corrupted.20240401-081730.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_04_2024_16_08_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_04_2024_16_08__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Back-End/SpiritPleasure/SpiritPleasure/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Back-End/SpiritPleasure/SpiritPleasure/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Back-End/SpiritPleasure/authentication/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Back-End/SpiritPleasure/authentication/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Back-End/SpiritPleasure/authentication/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Back-End/SpiritPleasure/authentication/templates/authentication/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Back-End/SpiritPleasure/authentication/templates/authentication/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Back-End/SpiritPleasure/authentication/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Back-End/SpiritPleasure/authentication/templates/registration/sign_up.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Back-End/SpiritPleasure/authentication/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Back-End/SpiritPleasure/authentication/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Back-End/SpiritPleasure/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Back-End/SpiritPleasure/query" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SpiritPleasure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SpiritPleasure.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e925717d-30be-4d9c-a600-0df8cd9f7829.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e925717d-30be-4d9c-a600-0df8cd9f7829.corrupted.20240401-081729.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_31_03_2024_18_49_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_31_03_2024_18_49__Changes_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_31_03_2024_18_55_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_31_03_2024_18_55__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_03_2024_17_12_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_03_2024_17_12__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_03_2024_17_11_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_03_2024_17_11__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back-End/SpiritPleasure/SpiritPleasure/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back-End/SpiritPleasure/SpiritPleasure/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back-End/SpiritPleasure/SpiritPleasure/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back-End/SpiritPleasure/SpiritPleasure/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back-End/SpiritPleasure/SpiritPleasure/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back-End/SpiritPleasure/authentication/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back-End/SpiritPleasure/authentication/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back-End/SpiritPleasure/authentication/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back-End/SpiritPleasure/authentication/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back-End/SpiritPleasure/authentication/migrations/0002_delete_customuser.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back-End/SpiritPleasure/authentication/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back-End/SpiritPleasure/authentication/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back-End/SpiritPleasure/authentication/serializers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back-End/SpiritPleasure/authentication/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back-End/SpiritPleasure/authentication/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back-End/SpiritPleasure/authentication/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back-End/SpiritPleasure/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back-End/SpiritPleasure/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/public/img/background.png" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/img/background.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/public/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front-end/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front-end/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/style.css" afterDir="false" />
     </list>
@@ -52,11 +40,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JSX File" />
         <option value="JavaScript File" />
-        <option value="Python Script" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -99,35 +87,31 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.SpiritPleasure.executor": "Run",
     "Python tests.Python tests for tests.UserIntegrationTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/admin/WebstormProjects/SpiritPleasure/front-end",
+    "last_opened_file_path": "C:/Users/admin/WebstormProjects/SpiritPleasure/front-end/public/img",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2023.3.6\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "settings.editor.selected.configurable": "terminal",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\admin\WebstormProjects\SpiritPleasure\front-end" />
       <recent name="C:\Users\admin\WebstormProjects\SpiritPleasure\front-end\public\img" />
       <recent name="C:\Users\admin\WebstormProjects\SpiritPleasure\front-end\public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\admin\WebstormProjects\SpiritPleasure\front-end\src" />
-      <recent name="C:\Users\admin\WebstormProjects\SpiritPleasure\front-end\public\img" />
-      <recent name="C:\Users\admin\WebstormProjects\SpiritPleasure\front-end\src\assets" />
       <recent name="C:\All files\SpiritPleasure" />
       <recent name="C:\All files\SpiritPleasure\Front-End" />
     </key>
@@ -156,6 +140,13 @@
       <item itemvalue="JavaScript Debug.SpiritPleasure" />
     </list>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -172,6 +163,11 @@
       <workItem from="1711999720573" duration="4647000" />
       <workItem from="1712006223317" duration="1970000" />
       <workItem from="1712008229891" duration="297000" />
+      <workItem from="1712405169381" duration="6595000" />
+      <workItem from="1712415218653" duration="860000" />
+      <workItem from="1712491084316" duration="2989000" />
+      <workItem from="1712494530401" duration="1812000" />
+      <workItem from="1712520345199" duration="3082000" />
     </task>
     <task id="LOCAL-00001" summary="Created">
       <option name="closed" value="true" />
@@ -189,23 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711722291913</updated>
     </task>
-    <task id="LOCAL-00003" summary="first sample of registration menu">
+    <task id="LOCAL-00003" summary="fix: modified auth/register">
       <option name="closed" value="true" />
-      <created>1712065206397</created>
+      <created>1712495421526</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1712065206397</updated>
+      <updated>1712495421526</updated>
     </task>
-    <task id="LOCAL-00004" summary="fonts changing">
-      <option name="closed" value="true" />
-      <created>1712075723241</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1712075723241</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,8 +218,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created" />
-    <MESSAGE value="first sample of registration menu" />
-    <MESSAGE value="fonts changing" />
-    <option name="LAST_COMMIT_MESSAGE" value="fonts changing" />
+    <MESSAGE value="fix: modified auth/register" />
+    <MESSAGE value="Theme button" />
+    <MESSAGE value=" feat:theme button" />
+    <option name="LAST_COMMIT_MESSAGE" value=" feat:theme button" />
   </component>
 </project>
